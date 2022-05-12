@@ -1,6 +1,6 @@
 {
   "name": "flat-front",
-  "description": "Web front end for Flatiron Data Exploration and Comparison Hub",
+  "description": "Flatiron Data Exploration and Comparison Hub web front end.",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
